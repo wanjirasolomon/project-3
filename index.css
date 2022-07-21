@@ -114,6 +114,16 @@ margin-left: 8%;
 justify-content: center;
 
 }
+table{
+font-family: 'Courier New', Courier, monospace;
+font-size: 30px;
+width: 100%;
+color: aquamarine;
+border-collapse: collapse;
+background-color: black;
+border: 1px solid;
+
+}
 .item {
 align-items: center;
 text-align: center;
