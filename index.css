@@ -131,6 +131,10 @@ text-align: center;
 .farm {
 display: flex;
 }
+.main{
+    align-items: center;
+    text-align: center;
+}
 .past {
 padding: 1%;
 justify-content: space-between;
@@ -158,4 +162,8 @@ margin-left: 6%;
     justify-content: space-between;
     margin-left: 10%;
     margin-right: 10%;
+}
+.may{
+    align-items: center;
+    text-align: center;
 }
